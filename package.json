@@ -1,0 +1,17 @@
+{
+  "name": "sandbox",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sandbox": "nodemon --quiet -L --watch index.js index.js"
+  },
+  "author": "Yahya Gilany <gilanyym@ucmail.uc.edu>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {
+    "eslint": "^7.0.0"
+  }
+}
